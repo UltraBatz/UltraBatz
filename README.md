@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1>Hi, I'm Eliot! <br/><a href="https://www.linkedin.com/in/eliot-perrault-bialek-34a6881a0/">Strategic Data Architect</a>
 
-<!--
-**UltraBatz/UltraBatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Data Architect & Analysts Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Avant Garde Database</b>
+  - [Documentation Report & Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Data Driven Report (Data Visualization)</b>
+  - [Documentation Report & Strategic Implementation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>YouTube Videos</h2>
+
+- [Avant Garde Database: Conquering Social Media Insights (Coming Soon)]
+- [Data Driven Report: How To Read Data & Make Strategic Plan (Coming Soon)]
+
+<h2>Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/eliot-perrault-bialek-34a6881a0/)

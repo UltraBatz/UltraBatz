@@ -3,7 +3,7 @@
 <h2>Data Architect & Analysts Projects:</h2>
 
 - <b>Avant Garde Database</b>
-  - [Documentation Report & Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Documentation Report & Analysis](https://github.com/UltraBatz/AvantGardeDatabase/tree/main)
 - <b>Data Driven Report (Data Visualization)</b>
   - [Documentation Report & Strategic Implementation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 

@@ -12,5 +12,4 @@
 - [Avant Garde Database: Conquering Social Media Insights (Coming Soon)]
 - [Data Driven Report: How To Read Data & Make Strategic Plan (Coming Soon)]
 
-<h2>Connect with me:</h2>
 

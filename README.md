@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eliot! <br/><a href="https://www.linkedin.com/in/eliot-perrault-bialek-34a6881a0/">Strategic Data Architect</a>
+<h1>Hi, I'm Eliot! <br/><a href="https://www.linkedin.com/in/eliot-perrault-bialek-34a6881a0/">Strategic Data Architect & Analyst</a>
 
 <h2>Data Architect & Analysts Projects:</h2>
 
